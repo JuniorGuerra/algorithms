@@ -8,4 +8,6 @@ import (
 func main() {
 	fmt.Println(solution.CanConstruct("aa", "ab"))
 	fmt.Println(solution.CanConstruct("aa", "aab"))
+
+
 }
