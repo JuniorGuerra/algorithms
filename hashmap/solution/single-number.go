@@ -8,6 +8,7 @@ func SingleNumber(nums []int) int {
 	for _, val := range nums {
 		result ^= val
 		fmt.Println(result)
+
 	}
 
 	return result

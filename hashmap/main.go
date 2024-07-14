@@ -6,8 +6,7 @@ import (
 )
 
 func main() {
-	fmt.Println(solution.CanConstruct("aa", "ab"))
-	fmt.Println(solution.CanConstruct("aa", "aab"))
-
-
+	// fmt.Println(solution.LetterCombinations("23"))
+	// fmt.Println(solution.LetterCombinations(""))
+	fmt.Println(solution.LetterCombinations("234"))
 }
